@@ -2,7 +2,7 @@
 - 👀 I’m interested in breaching the gap between Neuroscientists and Computer scientists.
 - 🌱 I’m currently learning data analysis with machine learning algorithms.
 - 💞️ I’m looking to collaborate on products involving Brain Computer Interfaces.
-- 📫 How to reach me: leandre.dubey@gmail.com
+- 📫 How to reach me: leandre.dubey@gmail.com or www.linkedin.com/in/léandre-dubey-1239872a7
 - ⚡ Fun fact: I am always passionate about learning new things. So if you have any projects regarding Neuroscience, Computer Science or even Robotics and Biology. Don't hesitate to reach out.
 
 <!---
