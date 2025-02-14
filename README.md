@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Léandre Dubey. I am a Digital Neuroscientist, I did my studies in the University of Fribourg with a 1 year Master Thesis in EPFL.
 - 📄 My github page is a portfolio where you will find the projects on which I collaborated during my studies. If you want to know more about me, see my CV.
-- 👀 I’m interested in breaching the gap between Neuroscientists and Computer scientists.
+- 👀 I’m interested in bridging the gap between Neuroscientists and Computer scientists.
 - 🌱 I’m currently learning data analysis with machine learning algorithms.
 - 💞️ I’m looking to collaborate on products involving Brain Computer Interfaces.
 - 📫 How to reach me: leandre.dubey@gmail.com or www.linkedin.com/in/léandre-dubey-1239872a7
