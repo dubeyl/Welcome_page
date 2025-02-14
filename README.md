@@ -2,7 +2,7 @@
 - 📄 My github page is a portfolio where you will find the projects on which I collaborated during my studies. If you want to know more about me, see my CV.
 - 👀 I’m interested in bridging the gap between Neuroscientists and Computer scientists.
 - 🌱 I’m currently learning data analysis with machine learning algorithms.
-- 💞️ I’m looking to collaborate on products involving Brain Computer Interfaces.
+- 💞️ I’m looking to collaborate on products involving Data Processing, Wearables, Brain Computer Interfaces.
 - 📫 How to reach me: leandre.dubey@gmail.com or www.linkedin.com/in/léandre-dubey-1239872a7
 - ⚡ Fun fact: I am always passionate about learning new things. So if you have any projects regarding Neuroscience, Computer Science or even Robotics and Biology. Don't hesitate to reach out.
 
